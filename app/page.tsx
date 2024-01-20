@@ -1,9 +1,8 @@
-import { Rating, Submitted } from "@/components";
+import { Rating } from "@/components";
 
 export default function Home() {
   return (
     <main>
-      {/* <Submitted /> */}
       <Rating />
     </main>
   );
